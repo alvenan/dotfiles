@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/usr/lib/avr'
+let g:netrw_dirhist_3='/home/alvenan/Documents/beaglebb/android/external'
+let g:netrw_dirhist_2='/home/alvenan/Documents/beaglebb/android/external/swiftshader'
+let g:netrw_dirhist_1='/home/alvenan/Documents/beaglebb/android/external/swiftshader/third_party'
